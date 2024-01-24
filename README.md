@@ -1,4 +1,4 @@
-# 3-Number Combination Lock VHDL Project
+# Combination Lock VHDL Project
 
 ## Overview
 This project implements a 3-number combination lock using VHDL and a Finite State Machine (FSM). The lock opens only when the correct numbers are entered sequentially. The FSM is designed with clock, reset, and new_value signals to control transitions between different lock states.
